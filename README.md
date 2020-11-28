@@ -3,10 +3,10 @@
 # Das Büro für Produktbeschwerung
 
 **Inhaltsverzeichnis**
-- [Konzepte](#Konzepte)
-- Theorien
-- Sammlungen
-- Notizen
+- [Übersicht Konzepte](#Konzepte)
+- [Übersicht Theorien](#Theorien)
+- [Notizen](#Notizen)
+- [Sammlungen](#Sammlungen)
 
 # Hi
 
