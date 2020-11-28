@@ -3,11 +3,10 @@
 ## Wie arbeite ich hier?
 
 ### Du hast ein Thema?
-1. Erstelle eine markdown Datei `thema.md` mit dem Namen des Themas
-2. Fang an, das Thema mit stichpunktartig zu beschreiben
-3. Formuliere die Stichpunkte aus und fülle diese mit relevanten Informationen
-
-
+1. Erstelle eine markdown Datei `thema.md`
+2. Beschreibe dieses Thema stichpunktartig und formuliere die Probleme und Pains
+3. Gemeinsames Brainstormen
+4. Erkentnisse niederschreiben aus dem Brainstorming
 
 Dieses Repository ist die Sammlung von Wissen. Hier werden zum einen Konzepte veröffentlich, die jeder für sich anwenden oder weiterentwickeln kann und zum anderen Nützliche Links zu Tools die in speziellen Situationen weiterhelfen können.
 
