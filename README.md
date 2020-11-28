@@ -2,7 +2,17 @@
 
 # Das Büro für Produktbeschwerung
 
-Wir justiren mittels Spiegel die Blickwinkel auf die Frage, um die darin befindlichen Parameter für das beste Ergebnis in gegenseitiger balance aufzugewichten.
+Wir justiren mittels Spiegel, die Blickwinkel auf Fragen, zur Befüllung von Parameter mit der Richtigen Grammatur in Balance auf die Grammatur auszuwiegen.
+Wir justiren mittels Spiegel, Blickwinkel auf Fragen, soalange bis zum  Parametern mit Werten in der richtigen Balance auf die Grammatur auszuwiegen.
+Wir justiren mittels Spiegel, Blickwinkel auf Fragen, zum auswiegen der Parameter, bis zum erhalt der richtigen Balance auf die Grammatur
+Wir verfeinern mittels Spiegel, die Blickwinkel auf Fragen, zur ausgleichen aller hinderlichen Parameter zur Lösung bis zur Aufhebung aller Parameter außerhalb Gewichtigen Para perfekten Gewichtung der Werte, innerhalb der Grammatur zur Lösung balancieren.  
+
+zum  Parametern mit Werten in der richtigen Balance auf die Grammatur auszuwiegen.
+
+Mit unseren Spiegel sind wir in der Lage, jeden Blickwinkel auf Fragen einzunehmen um ein ausbalancierte 
+Wir justiren mittels Spiegel, Blickwinkel auf die Frage, zur Korrektur von Parametern in Balance zur Grammaturz
+
+Wir justiren mittels Spiegel, diverse Blickwinkel auf Fragen, zur prüfen von Parametern auf Balance der Grammatur in Balance zur Grammatur für das beste Ergebnis in gegenseitiger balance aufzugewichten.
 
 **Inhaltsverzeichnis**
 - [Übersicht Konzepte](#Konzepte)
