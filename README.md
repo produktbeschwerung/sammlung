@@ -1,6 +1,7 @@
 # Das Büro für Produktbeschwerung
 
 Wir konzipieren modulare Systeme, in denen Visionäre Ihre Ideen verwirklichen können
+
 Wir vernetzen Wissen mit Skills
 
 **Notizen**
