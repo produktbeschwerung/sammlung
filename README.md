@@ -13,8 +13,7 @@
 Durch die Aufstellung von Theorien werden Zusammenhänge, Probleme oder Lösungen ersichtlich.
 Jede einzelne Theorie wird in gemeinsamen Challange-Runden beleuchtet.
 Bewegenswerte Resultate werden dokumentiert und bei Bedarf als Konzept ausgearbeitet.
-
-Diese Sammlung als Resultat des Büros für Produktbeschwerung unterliegt dem Gedanken von Open-Source und Jedem dabei helfen sich zu verwirklichen.
+Das Ergebnis dieser Arbeit ist diese Sammlung und unterliegt dem Gedanken von Open-Source und.
 
 ## Alles beginnt mit der Theorie
 1. Erstelle ein Markdown-File bzw. `theorie.md`
