@@ -1,3 +1,5 @@
+![Das Büro für Produktbeschwerung](beschwerung.png)
+
 # Das Büro für Produktbeschwerung
 
 **Inhaltsverzeichnis**
@@ -6,13 +8,17 @@
   - [Markdown Editore](liste-markdown-editor.md)
 
 ## Wie arbeitet das Büro für Produktbeschwerung?
-Egal welches Thema oder welche Theorie, ob als Ursache eines Problems oder als Lösung Idee oder Konzept wird Markdown-Dateien in diesem Repository festhalten, dokumentiert oder ausgearbeiten.
+Durch die Aufstellung von Theorien werden Zusammenhänge, Probleme oder Lösungen ersichtlich.
+Jede einzelne Theorie wird in gemeinsamen Challange-Runden beleuchtet.
+Bewegenswerte Resultate werden dokumentiert und bei Bedarf als Konzept ausgearbeitet.
+
+Alle Erkentnisse stehen Open-Source für jeden zur Verfügung.
 
 ### Du hast ein Thema oder eine Theorie?
-1. Erstelle eine markdown Datei `thema.md`
+1. Erstelle eine markdown Datei `thema/theorie.md`
 2. Fang an, kurz und verständlich, stichpunktartig zu beschreiben
 3. Präsentiere dein Thema für das gemeinsame Brainstormen
-4. Dokumentiere die Ergebnisse aus dem Brainstorming innerhalb der Thema-Datei
+4. Dokumentiere die Ergebnisse aus dem Brainstorming innerhalb der Themen-Datei
 5. Wiederhole Schritt 3 und 4 innerhalb mehrere Zyklen
 6. Jedes Ergebnis ist wertvoll, egal ob die Erkentnis zu keinem Ergebnis führt oder Lösungen und Konzepte entstehen
 
