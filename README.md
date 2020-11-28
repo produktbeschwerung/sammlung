@@ -4,8 +4,7 @@
 
 **Inhaltsverzeichnis**
 
-- Sammlungen
-  - [Markdown Editore](liste-markdown-editor.md)
+- [Auflistung von Markdown Editore](liste-markdown-editor.md)
 
 ## Wie arbeitet das Büro für Produktbeschwerung?
 Durch die Aufstellung von Theorien werden Zusammenhänge, Probleme oder Lösungen ersichtlich.
