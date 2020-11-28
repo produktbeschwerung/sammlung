@@ -8,24 +8,6 @@
 - [Notizen](#Notizen)
 - [Sammlungen](#Sammlungen)
 
-
-## Onboarding
-
-Erstelle ein Markdown-File und gebe ihr den Namen deines Themas. Beispiel: E-Citizin  `e-citizin.md` 
-
-Kopiere folgendes Template als Vorlage und fange an die ersten Fragen zu beantworten. Das Template kann natürlich jederzeit ergänzt werden:
-
-```
-# Title
-
-## Beschreibung
-
-- Warum befasst du dich mit diesem Thema?
-- An wen soll das Thema sich richten?
-- Was möchtest du über dieses Thema Wissen?
-- Was ist das Ziel dieses Themas?
-```
-
 ---
 
 ## Fragen
