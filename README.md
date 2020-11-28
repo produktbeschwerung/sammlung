@@ -10,7 +10,8 @@
 
 
 ## Wie arbeitet das Büro für Produktbeschwerung?
-Durch die  werden Zusammenhänge, Probleme oder Lösungen ersichtlich.
+Die richtige Frage definiert den Paramter, Der mit der Befüllung neuester Erkentnisse auf Komformität geprüfen wird.
+
 Jede einzelne Theorie wird in gemeinsamen Challange-Runden beleuchtet.
 Bewegenswerte Resultate werden dokumentiert und bei Bedarf als Konzept ausgearbeitet.
 Das Ergebnis dieser Arbeit ist diese Sammlung und unterliegt dem Gedanken von Open-Source und.
