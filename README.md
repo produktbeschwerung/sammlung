@@ -8,14 +8,13 @@
 - [Notizen](#Notizen)
 - [Sammlungen](#Sammlungen)
 
-# Hi
 
 ## Wie arbeitet das Büro für Produktbeschwerung?
 Durch die Aufstellung von Theorien werden Zusammenhänge, Probleme oder Lösungen ersichtlich.
 Jede einzelne Theorie wird in gemeinsamen Challange-Runden beleuchtet.
 Bewegenswerte Resultate werden dokumentiert und bei Bedarf als Konzept ausgearbeitet.
 
-Alle Erkentnisse stehen Open-Source für jeden zur Verfügung.
+Jedes Resultat aus diesem Repository wird als Open-Source veröffentlicht.
 
 ### Du hast ein Thema oder eine Theorie?
 1. Erstelle eine markdown Datei `thema/theorie.md`
