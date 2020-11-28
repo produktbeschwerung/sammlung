@@ -2,15 +2,14 @@
 
 # Das Büro für Produktbeschwerung
 
+Wir justiren mittels Spiegel die Blickwinkel auf die Frage, um die darin befindlichen Parameter für das beste Ergebnis in gegenseitiger balance aufzugewichten.
+
 **Inhaltsverzeichnis**
 - [Übersicht Konzepte](#Konzepte)
 - [Übersicht Theorien](#Theorien)
 - [Notizen](#Notizen)
 - [Sammlungen](#Sammlungen)
 
-
-## Wie arbeitet das Büro für Produktbeschwerung?
-Die Perspektive der Frage definiert den Paramter, Der mit der Befüllung neuester Erkentnisse auf Komformität geprüfen wird.
 
 Jede einzelne Theorie wird in gemeinsamen Challange-Runden beleuchtet.
 Bewegenswerte Resultate werden dokumentiert und bei Bedarf als Konzept ausgearbeitet.
