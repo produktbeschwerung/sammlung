@@ -3,6 +3,11 @@
 **Pain**
 Die Kommunikation innerhalb eines Unternehmens läuft extrem vielschichtig ab, sodass diese schwer nachvollziehbar und zurückzuverfolgen ist. Die verschiedenen Typen von Wissensträgern greifen nicht ineinander und Informationen, welche einen Teil des Unternehmenswertes ausmachen, gehen verloren oder sind nicht mehr verständlich im Kontext.
 
+## Liste von Markdown Editoren
+- [DraftIn](https://draftin.com/)
+- [stackedit.io](https://stackedit.io/app#)
+- [Notable](https://notable.app/)
+
 ## Typen
 
 ### E-Mail
