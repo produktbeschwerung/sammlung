@@ -14,7 +14,7 @@ Bewegenswerte Resultate werden dokumentiert und bei Bedarf als Konzept ausgearbe
 Das Ergebnis dieser Arbeit ist diese Sammlung und unterliegt dem Gedanken von Open-Source und.
 
 ## Alles beginnt mit einer Frage
-1. Erstelle ein Markdown-File und bennen sie nach deiner frage `wie-entscheiden-menschen-zukünftig.md`
+1. Erstelle ein Markdown-File und bennen sie nach deiner frage `frage.md`
 2. Beschreibe dort kurz, klar und pregnant deine Theorie.
 3. Challange diese Theorie mit anderen Mitgliedern.
 4. Dokumentiere neue Erkentnisse, Ideen, Inspirationen oder Lösungen.
