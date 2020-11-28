@@ -9,14 +9,37 @@
 - [Sammlungen](#Sammlungen)
 
 
-Jede einzelne Theorie wird in gemeinsamen Challange-Runden beleuchtet.
-Bewegenswerte Resultate werden dokumentiert und bei Bedarf als Konzept ausgearbeitet.
-Das Ergebnis dieser Arbeit ist diese Sammlung und unterliegt dem Gedanken von Open-Source und.
+## Onboarding
 
-## Alles beginnt mit einer Frage
-1. Erstelle ein Markdown-File und bennen sie nach deiner frage `frage.md`
-2. Beschreibe dort kurz, klar und pregnant deine Theorie.
-3. Challange diese Theorie mit anderen Mitgliedern.
+### Einleitung
+
+### Begin
+Erstelle ein Markdown-File und gebe ihr den Namen deines Themas. Beispiel: E-Citizin  `e-citizin.md` 
+Setze den Namen als Title und verfasse darunter die erste Frage. Verwende gerne folgenden Code als Vorlage:
+
+```
+# E-Citizin
+
+## Kann ich aus Deutschland in Estland die Citzinship beantragen und erhalten?
+```
+
+
+
+### Aufnahme
+
+
+2. Verfasse die ersten Frage zu diesem Thema
+
+```
+# 
+```
+
+3. 
+2. Hole andere Leute mit einer kurzen Einleitung in das Thema ab.
+3. Schaffe Bereiche zur Weiterentwicklung anhand von Fragen oder Aufforderungen.
+4. Nutze Treffen um Fragen zu beantworten oder neue Fragen aufzuschreiben
+5. Je mehr Fragen beantwortet wurden, umso vollständiger ist die Lösung eines Themas
+5. 
 4. Dokumentiere neue Erkentnisse, Ideen, Inspirationen oder Lösungen.
 5. Keine Theorie bleibt für immer. Sie entwickelt sich. Hinterfrage sie.
 6. Jedes Ergebnis ist wertvoll, egal ob die Erkentnis zu keinem Ergebnis führt oder Lösungen und Konzepte entstehen.
