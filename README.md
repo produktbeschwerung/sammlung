@@ -3,8 +3,12 @@
 # Das Büro für Produktbeschwerung
 
 **Inhaltsverzeichnis**
+- [Konzepte](#Konzepte)
+- Theorien
+- Sammlungen
+- Notizen
 
-- [Auflistung von Markdown Editore](liste-markdown-editor.md)
+# Hi
 
 ## Wie arbeitet das Büro für Produktbeschwerung?
 Durch die Aufstellung von Theorien werden Zusammenhänge, Probleme oder Lösungen ersichtlich.
@@ -23,11 +27,11 @@ Alle Erkentnisse stehen Open-Source für jeden zur Verfügung.
 
 ## Alles beginnt mit der Theorie
 
-### Theorien
+## Theorien
   - Warum findet 2025 ein wandel in der Gesellschaft statt?
   - Hilft Krypto-Währung dabei endliche Resourcen transparent zu managen?
 
-### Konzepte
+## Konzepte
   - Unternehmens Kommunikation durch Protokollierung in der Markdown Blockchain
   - Micro Delivery für das Kleinst-Bedürfnis
   - Onboarding Gaminification in der Unternehmensgründung
@@ -40,3 +44,6 @@ Alle Erkentnisse stehen Open-Source für jeden zur Verfügung.
 - Wir vernetzen Wissen mit Skills
 - Tanktstelle der Kreativität
 - Nicht die Frage warum und ob, sondern wie
+
+## Sammlungen
+- [Auflistung von Markdown Editore](liste-markdown-editor.md)
