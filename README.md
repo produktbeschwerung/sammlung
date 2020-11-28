@@ -10,7 +10,7 @@
 
 
 ## Wie arbeitet das Büro für Produktbeschwerung?
-Die richtige Frage definiert den Paramter, Der mit der Befüllung neuester Erkentnisse auf Komformität geprüfen wird.
+Die Perspektive der Frage definiert den Paramter, Der mit der Befüllung neuester Erkentnisse auf Komformität geprüfen wird.
 
 Jede einzelne Theorie wird in gemeinsamen Challange-Runden beleuchtet.
 Bewegenswerte Resultate werden dokumentiert und bei Bedarf als Konzept ausgearbeitet.
