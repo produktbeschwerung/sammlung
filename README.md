@@ -11,31 +11,32 @@
 
 ## Onboarding
 
-### Einleitung
-
-### Begin
 Erstelle ein Markdown-File und gebe ihr den Namen deines Themas. Beispiel: E-Citizin  `e-citizin.md` 
-Setze den Namen als Title und verfasse darunter die erste Frage. Verwende gerne folgenden Code als Vorlage:
+
+Kopiere folgendes Template als Vorlage und fange an die ersten Fragen zu beantworten. Das Template kann natürlich jederzeit ergänzt werden:
 
 ```
-# E-Citizin
+# Title
 
-## Kann ich aus Deutschland in Estland die Citzinship beantragen und erhalten?
+## Einleitung
+
+Wie bin ich auf dieses Thema gestoßen?
+Wer kann durch dieses Thema profitieren?
+Welche Probleme können durch dieses Thema gelöst werden?
+
+Verlinke alle Quellen zu diesem Thema die dir bekannt sind?
+Was möchte ich über dieses Thema wissen?
 ```
 
 
+Stelle Frage Formuliere Fragen so, dass diese immer ein Problem zum Lösen anbietet.
 
-### Aufnahme
+Formuliere die Fragen so, dass diese immer 
+
+Durch die Beantwortung dieser Grundlegenden Fragen und dem Stellen neuer Fragen wird eine nachvollziehbare Informations 
 
 
-2. Verfasse die ersten Frage zu diesem Thema
 
-```
-# 
-```
-
-3. 
-2. Hole andere Leute mit einer kurzen Einleitung in das Thema ab.
 3. Schaffe Bereiche zur Weiterentwicklung anhand von Fragen oder Aufforderungen.
 4. Nutze Treffen um Fragen zu beantworten oder neue Fragen aufzuschreiben
 5. Je mehr Fragen beantwortet wurden, umso vollständiger ist die Lösung eines Themas
