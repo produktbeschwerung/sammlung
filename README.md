@@ -1,6 +1,7 @@
 # Das Büro für Produktbeschwerung
 
-## Wie arbeite ich hier?
+## Wie arbeitet das Büro für Produktbeschwerung?
+Jedes Thema, egal ob Problem, Lösung, Idee oder Konzept wird mittels markdown Dateien in diesem Repository festgehalten, dokumentiert und ausgearbeitet.
 
 ### Du hast ein Thema?
 1. Erstelle eine markdown Datei `thema.md`
@@ -14,12 +15,15 @@ Dieses Repository ist die Sammlung von Wissen. Hier werden zum einen Konzepte ve
 - Sammlungen
   - [Markdown Editore](liste-markdown-editor.md)
  
-- Konzepte
-  - Micro Delivery
-  - Onboarding Gaminification
-  - Crypto-Öko-System
-  - Modulare Büros
-  
+## Konzepte
+  - Unternehmens Kommunikation durch Protokollierung in der Markdown Blockchain
+  - Micro Delivery für das Kleinst-Bedürfnis
+  - Onboarding Gaminification in der Unternehmensgründung
+  - Crypto-Öko-System zur Verteilung von Werten, Pflichten und Rechten innerhalb des Unternehmens
+  - Modulare Büros zum dynamischen anpassen ändernden Workflows
+  - Realtime Kommunikation über Discord
+
+
 **Notizen**
 - Wir konzipieren modulare Systeme, in denen Visionäre Ihre Ideen verwirklichen können
 - Wir vernetzen Wissen mit Skills
