@@ -16,6 +16,7 @@
   - Hilft Krypto-Währung dabei endliche Resourcen transparent zu managen?
 
 ## Konzepte
+  - [SPINE](spine/index.md)
   - Unternehmens Kommunikation durch Protokollierung in der Markdown Blockchain
   - Micro Delivery für das Kleinst-Bedürfnis
   - Onboarding Gaminification in der Unternehmensgründung

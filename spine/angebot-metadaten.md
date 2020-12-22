@@ -1,5 +1,3 @@
-
-
 # SPINE
 ___
 ## Angebot - Metadaten
@@ -7,7 +5,7 @@ ___
 Zur eindeutigen Erfassung und Grundlage eines Taks,
 sind folgende Metadaten festzuhalten:
 
-##### Identität des Bieters
+### Identität des Bieters
 
 Die Erfassung der Identität dient der Zuordnung des Angebots
 zum Ersteller.
@@ -25,7 +23,6 @@ für weitere Prozesse zur Verfügung zu stellen.*
 
 <br>
 <br>
-
 
 ##### Timestamps und Bezugszeiträume
 
@@ -52,7 +49,7 @@ des Produkts bei Auslieferung.
 
 *Wenn der Kunde zufrieden ist, wird er den Vertrag abschließen.*
 
-###### Dienstleistung
+##### Dienstleistung
 - Eine genaue Beschreiung der Angebotenen Leistung und  
 des Endproduktes
 - Zeit/€
@@ -76,4 +73,4 @@ Missverständnisse vermeiden.*
 ##### Logistik (Gefahrenübergang)
 ##### Kosten
 ##### Eventhandling
-##### "Klauseln zu Gewährleistung, Hanftung und Daten"
+##### "Klauseln zu Gewährleistung, Haftung und Daten"
