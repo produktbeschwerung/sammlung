@@ -7,6 +7,9 @@ Es ist die Währung einer Pflanze die man bei sich in der Wohnung stehen hat.
 Die Pflanze ist der Token, also der Wert. Die Schenkung des Setzlinges an weitere Personen, die Transaktion des Wertes.
 Je älter der Token, umso höher die verschenkten Generationen wodurch der Wert des Genesis Token der Pflanze erhöht.
 
+## Domain
+- [mana.link](https://mana.link)
+
 ## Mögliche Namen des Tokens
 - ManaLink
 - Plana
