@@ -2,7 +2,7 @@
 
 ## Was ist Mana Link?
 Es ist die Währung einer Pflanze die man bei sich in der Wohnung stehen hat. 
-Die Pflanze ist der Token, also der Wert und die Transaktionen, die Schenkung des Setzlinges an weitere Personen.
+Die Pflanze ist der Token, also der Wert. Die Transaktionen, also die Schenkung des Setzlinges an weitere Personen.
 Je älter der Token und umso höher die verschenkten generationen, umso mehr Wert hat der Genesis Token der Pflanze.
 
 ## Effect
