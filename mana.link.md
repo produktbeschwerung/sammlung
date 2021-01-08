@@ -20,3 +20,18 @@ Bevor man die Pflanze verschenkt, legt man dem Setzling den QR-Code der 2. Gener
 Somit generiert sich nach Weilen eine Verankerungskette, die den Weg der Pflanze durch die Menscheit und der Epochen verknüpft.
 
 Durch diesen Prozess kann man in Zukunft herausfinden, wer hatte alles diese Pflanze, woher kam sie. Es könnte passieren, dass ich meine Pflanze verschenke und diese irgendwann als Geschenk bei einer bekannten Person landet. Bspw. Angelar Merkel.
+
+## Extension
+Man kauft sich mit der Währung ManaL im Laden "Mana Link", die Pflanze . Durch die Bezahlung in ManaL darf der Käuft sich auf mana.link für den Genesis Block registrieren.
+
+Jeder neue Eintrag eines Setzlings der weiteren Generationen darf nur durch den Tausch von ManaL sein Besitzestum in der Chain eintragen und somit Teil der Kette werden.
+
+Der Benefit dieser Kette ist die Auszahlung der anteiligen Berürungen beim erzeugen und erhalt des Netzwerkes (Chain), sobald die eigene Pflanze stirbt. Somit verkauft man seine Token und aktualisiert den allgemeinen Bestand.
+
+*archiv*
+Dieses System erzeugt eine finanzielle Einbahnstraße und erzeugt einen Pot für eine Wertigkeit
+Der Token ist nicht limitiert von der Menge, sondern wird pro Genesis-Plfanze neu erzeugt und bei Einträgen zweiter Generation usw.usw. Somit ergibt sich eine incrementierende Währung mit Verknüpfung an die Anzahl der verangegangenen Pflanzen und Bestehender Pflanzenanzahl.
+
+Bei Tod der Pflanz, darf man seinen Token, der jeweiligen Generation auszahlen lassen und erhält, anteilig an den, nach mir erzeugten Pflanzen 
+
+D
