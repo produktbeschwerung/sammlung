@@ -3,7 +3,7 @@
 ## Was ist Mana Link?
 Es ist die Währung einer Pflanze die man bei sich in der Wohnung stehen hat. 
 Die Pflanze ist der Token, also der Wert. Die Transaktionen, also die Schenkung des Setzlinges an weitere Personen.
-Je älter der Token und umso höher die verschenkten generationen, umso mehr Wert hat der Genesis Token der Pflanze.
+Je älter der Token, umso höher die verschenkten Generationen und umso mehr Wert, der Wert des Genesis Token der Pflanze.
 
 ## Effect
 Schneball System mit der Wertigkeit zum erhalt der Natur.
