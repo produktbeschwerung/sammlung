@@ -8,7 +8,7 @@ Die Pflanze ist der Token, also der Wert. Die Transaktionen, also die Schenkung 
 Je älter der Token, umso höher die verschenkten Generationen und umso mehr Wert, der Wert des Genesis Token der Pflanze.
 
 ## Effect
-Schneball System mit der Wertigkeit zum erhalt der Natur.
+Schneball System welches mit dem Erhalt der Natur eine Wertigkeit erzeugt.
 
 ## User Story Start
 Ich gehe in den Laden Namens Mana Link und kaufe mir dort eine Pflanze. Diese Pflanze stelle ich in meine Wohnung und pflege diese sehr gut. Der Plfanze geht es so gut, dass sie sich vermehrt.
