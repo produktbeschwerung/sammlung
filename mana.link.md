@@ -1,5 +1,7 @@
 # Mana Link
 
+![alt text](/mana.link-logo.png "Mana Link Coin Logo")
+
 ## Was ist Mana Link?
 Es ist die Währung einer Pflanze die man bei sich in der Wohnung stehen hat. 
 Die Pflanze ist der Token, also der Wert. Die Transaktionen, also die Schenkung des Setzlinges an weitere Personen.
