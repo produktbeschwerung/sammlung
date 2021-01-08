@@ -4,14 +4,19 @@
 
 ## Was ist Mana Link?
 Es ist die Währung einer Pflanze die man bei sich in der Wohnung stehen hat. 
-Die Pflanze ist der Token, also der Wert. Die Transaktionen, also die Schenkung des Setzlinges an weitere Personen.
-Je älter der Token, umso höher die verschenkten Generationen und umso mehr Wert, der Wert des Genesis Token der Pflanze.
+Die Pflanze ist der Token, also der Wert. Die Schenkung des Setzlinges an weitere Personen, die Transaktion des Wertes.
+Je älter der Token, umso höher die verschenkten Generationen wodurch der Wert des Genesis Token der Pflanze erhöht.
+
+## Mögliche Namen des Tokens
+- ManaLink
+- Plana
+- Plantana
 
 ## Effect
-Schneball System welches mit dem Erhalt der Natur eine Wertigkeit erzeugt.
+Schneball System welches mit der Wertigkeit der Plfanze und deren Werdegang, den Erhalt der Natur gewährleistet.
 
 ## User Story Start
-Ich gehe in den Laden Namens Mana Link und kaufe mir dort eine Pflanze. Diese Pflanze stelle ich in meine Wohnung und pflege diese sehr gut. Der Plfanze geht es so gut, dass sie sich vermehrt.
+Ich gehe in den Laden "Mana Shop" und kaufe mir dort eine Pflanze. Diese Pflanze stelle ich in meine Wohnung und pflege diese sehr gut. Der Plfanze geht es so gut, dass sie sich vermehrt.
 Sie bekommt Setzlinge. Diese Setzlinge nehmen Platz im Topf weg und müssen somit raus und im besten Fall werden diese verschenkt und leben weiter in der nächsten Generation.
 
 ## Der Prozess 
@@ -24,7 +29,7 @@ Somit generiert sich nach Weilen eine Verankerungskette, die den Weg der Pflanze
 Durch diesen Prozess kann man in Zukunft herausfinden, wer hatte alles diese Pflanze, woher kam sie. Es könnte passieren, dass ich meine Pflanze verschenke und diese irgendwann als Geschenk bei einer bekannten Person landet. Bspw. Angelar Merkel.
 
 ## Extension
-Man kauft sich mit der Währung ManaL im Laden "Mana Link", die Pflanze . Durch die Bezahlung in ManaL darf der Käuft sich auf mana.link für den Genesis Block registrieren.
+Man kauft sich mit der Währung ManaL im Laden "Mana Shop", die Pflanze . Durch die Bezahlung in ManaL darf der Käuft sich auf mana.link für den Genesis Block registrieren.
 
 Jeder neue Eintrag eines Setzlings der weiteren Generationen darf nur durch den Tausch von ManaL sein Besitzestum in der Chain eintragen und somit Teil der Kette werden.
 
