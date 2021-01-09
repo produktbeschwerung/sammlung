@@ -16,18 +16,18 @@
 
 ## Konzept
 
-### Was ist Mana Link?
+### 📖 Was ist Mana Link?
 Mana.Link ist die Dokumentation der Vermehrung und Verteilung von Pflanzen zur nachträglichen Verfolgung des Bestandes und derer Entwicklung.
 
 von  die Währung einer Pflanze die man bei sich in der Wohnung stehen hat. 
 Die Pflanze ist der Token, also der Wert. Die Schenkung des Setzlinges an weitere Personen, die Transaktion des Wertes.
 Je älter der Token, umso höher die verschenkten Generationen wodurch der Wert des Genesis Token der Pflanze sich erhöht.
 
-### Auswirkung
+### 🪡 Auswirkung
 Eine erhofte Auswirkung ist die Dokumentation der vegetanischen Vielfalt. 
 Durch diese lassen sich der Bestand und die Weiterentwicklung der Plfanze messen.
 
-### Namen
+### 🏷️ Namen
 Der Name Mana.Link besteht aus folgenden zwei Begriffen:
 
 **Mana**
@@ -36,14 +36,14 @@ Mana ist das sich verselbständigende, ein genau definiertes Verhalten auslösen
 **Link**
 Ein Link bezeichnet in der Kommunikationstechnik, insbesondere bei Netzwerken, im Allgemeinen eine Verbindung zweier Komponenten.
 
-### Domain
+### 🌐 Domain
 - [mana.link](https://mana.link)
 
-### User Story
+### 🤌 User Story
 Ich gehe in den Laden "Mana Shop" und kaufe mir dort eine Pflanze. Diese Pflanze stelle ich in meine Wohnung und pflege diese sehr gut. Der Plfanze geht es so gut, dass sie sich vermehrt.
 Sie bekommt Setzlinge. Diese Setzlinge nehmen Platz im Topf weg und müssen somit raus und im besten Fall werden diese verschenkt und leben weiter in der nächsten Generation.
 
-### Prozessablauf
+### ⚙️ Prozessablauf
 Der Genesis-QR-Code öffnet eine Webseite (mana.link/{QR-Code ID} auf der die Plfanze mit Ihrer Geschichte präsentiert wird. 
 Dort zu sehen und nur durch den QR-Code berechtigt, erscheint ein Formular, indem man seine persönlichen Daten einträgt und sich somit mit dieser Pflanzer vekrnüpft. 
 Nach Abschluss erhält man die Möglichkeit, weitere QR-Codes der 2. Generation zu erzeugen, da die Pflanze Setzlinge bildete, die man umtopfen kann und somit an andere weiterverschenkt. 
@@ -52,14 +52,14 @@ Somit generiert sich nach Weilen eine Verankerungskette, die den Weg der Pflanze
 
 Durch diesen Prozess kann man in Zukunft herausfinden, wer hatte alles diese Pflanze, woher kam sie. Es könnte passieren, dass ich meine Pflanze verschenke und diese irgendwann als Geschenk bei einer bekannten Person landet. Bspw. Angelar Merkel.
 
-### Finanz-Ökosystem
+### 🪙 Finanz-Ökosystem
 Man kauft sich mit der Währung ManaL im Laden "Mana Shop", die Pflanze . Durch die Bezahlung in ManaL darf der Käuft sich auf mana.link für den Genesis Block registrieren.
 
 Jeder neue Eintrag eines Setzlings der weiteren Generationen darf nur durch den Tausch von ManaL sein Besitzestum in der Chain eintragen und somit Teil der Kette werden.
 
 Der Benefit dieser Kette ist die Auszahlung der anteiligen Berürungen beim erzeugen und erhalt des Netzwerkes (Chain), sobald die eigene Pflanze stirbt. Somit verkauft man seine Token und aktualisiert den allgemeinen Bestand.
 
-## Developing
+## ⌨️ Developing
 
 ### Hosting
 Die Webseite wird über das IPFS auf der Domain mana.link ausgeliefert. IPFS ist das dezentrale Speicher-Netzwerk. Beim export der Webseite wird durch den Service https://pinata.cloud/ mittels API Key die gerenderte Webseite ins IPFS gespeichert.
