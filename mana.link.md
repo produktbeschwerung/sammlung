@@ -1,10 +1,10 @@
 ![alt text](/mana.link-logo.png "Mana Link Coin Logo")
-# Mana Link
+# Mana.Link
 
 **Table of Contents**
 - [Konzept](#konzept)
   - [Was ist Mana Link?](#was-ist-mana-link?)
-  - [Effect](#effect)
+  - [Auswirkung](#auswirkung)
   - [Namen](#namen)
   - [Domain](#domain)
   - [User Story](#User-Story)
@@ -17,17 +17,24 @@
 ## Konzept
 
 ### Was ist Mana Link?
-Es ist die Währung einer Pflanze die man bei sich in der Wohnung stehen hat. 
+Mana.Link ist die Dokumentation der Vermehrung und Verteilung von Pflanzen zur nachträglichen Verfolgung des Bestandes und derer Entwicklung.
+
+von  die Währung einer Pflanze die man bei sich in der Wohnung stehen hat. 
 Die Pflanze ist der Token, also der Wert. Die Schenkung des Setzlinges an weitere Personen, die Transaktion des Wertes.
 Je älter der Token, umso höher die verschenkten Generationen wodurch der Wert des Genesis Token der Pflanze sich erhöht.
 
-### Effect
-Schneball System welches mit der Wertigkeit der Plfanze und deren Werdegang, den Erhalt der Natur gewährleistet.
+### Auswirkung
+Eine erhofte Auswirkung ist die Dokumentation der vegetanischen Vielfalt. 
+Durch diese lassen sich der Bestand und die Weiterentwicklung der Plfanze messen.
 
 ### Namen
-- ManaLink
-- Plana
-- Plantana
+Der Name Mana.Link besteht aus folgenden zwei Begriffen:
+
+**Mana**
+Mana ist das sich verselbständigende, ein genau definiertes Verhalten auslösendes Stigma (eines Lebewesens, eines Objekts, eines Zustandes)
+
+**Link**
+Ein Link bezeichnet in der Kommunikationstechnik, insbesondere bei Netzwerken, im Allgemeinen eine Verbindung zweier Komponenten.
 
 ### Domain
 - [mana.link](https://mana.link)
