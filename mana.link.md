@@ -66,6 +66,70 @@ Die Webseite wird über das IPFS auf der Domain mana.link ausgeliefert. IPFS ist
 - [Polkadot{js}](https://polkadot.js.org/) zum verknüpfen des Wallets
 - [Substrate](https://substrate.dev/) zum erzeugen der eigenen Blockchain auf basis von Polkadot
 
+### Pflanzenerkennung per AI
+Beim scannen der Pflanze, zum verknüpfen des Besitzers, verwenden wir eine AI zum identifizieren der Pflanze. 
+- Service: https://web.plant.id/plant-identification-api/
+
+### Foto Upload
+Fotos von den Pflanzen werden im IPFS abgespeichert und erhalten eine CID zur Wiedererkennung.
+
+### Verknüpfung
+Beim schreiben in die Blockchain werden die Wallet-Adresse des neuen Besitzer, die CID
+
+```jsx
+
+const previousTransactionBlock = Polkadot.getTransactionBlockFromHash(hash)
+
+// User
+const senderWallet = previousTransactionBlock.getRecieverAdress()
+const recieverWallet = LocalWallet.getRecieverWalletAdress()
+
+// Object
+const picture = getPictureFromCamera()
+
+// ObjectData
+const pictureCID = uploadPictureToIPFS(picture)
+const aiResult = recognitePlantFromAI(picture)
+
+const manaCost = 5;
+
+// Abort on insufficient balance
+const recieverBalance(recieverWallet.getBalance() < manaCost) {
+  new Error('insuffiecent balance')
+}
+
+// build new Transaction
+const Transaktion = new Polkadot.newTransaction()
+
+Transaktion.setSender(senderWallet.getAdress())
+Transaktion.setReciever(senderWallet.getAdress())
+Transaktion.setManaAmount(manaCost)
+
+Transaktion.setObject({
+  type: 'plant',
+  name: aiResult.name,
+  picture: pictureCID
+})
+
+Transaktion.execute()
+
+```
+
+### Transaktions Block Beispiel
+```jsx
+
+const Block = {
+  owners: {
+    sender: senderWallet.getAdress(),
+    reciever: recieverWallet.getAdress()
+  },
+  object: {
+    type: 'plant',
+    name: aiResult.name,
+    picture: pictureCID
+  }
+}
+```
 
 *archiv*
 Dieses System erzeugt eine finanzielle Einbahnstraße und erzeugt einen Pot für eine Wertigkeit
