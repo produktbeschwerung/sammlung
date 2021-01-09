@@ -1,4 +1,4 @@
-![alt text](/mana.link-logo.png "Mana Link Coin Logo")
+![alt text](/mana.link-logo.png "Mana.Link")
 # Mana.Link
 
 **Table of Contents**
@@ -18,10 +18,6 @@
 
 ### 📖 Was ist Mana Link?
 Mana.Link ist die Dokumentation der Vermehrung und Verteilung von Pflanzen zur nachträglichen Verfolgung des Bestandes und derer Entwicklung.
-
-von  die Währung einer Pflanze die man bei sich in der Wohnung stehen hat. 
-Die Pflanze ist der Token, also der Wert. Die Schenkung des Setzlinges an weitere Personen, die Transaktion des Wertes.
-Je älter der Token, umso höher die verschenkten Generationen wodurch der Wert des Genesis Token der Pflanze sich erhöht.
 
 ### 🪡 Auswirkung
 Eine erhofte Auswirkung ist die Dokumentation der vegetanischen Vielfalt. 
@@ -53,11 +49,13 @@ Somit generiert sich nach Weilen eine Verankerungskette, die den Weg der Pflanze
 Durch diesen Prozess kann man in Zukunft herausfinden, wer hatte alles diese Pflanze, woher kam sie. Es könnte passieren, dass ich meine Pflanze verschenke und diese irgendwann als Geschenk bei einer bekannten Person landet. Bspw. Angelar Merkel.
 
 ### 💰 Finanz-Ökosystem
-Man kauft sich mit der Währung ManaL im Laden "Mana Shop", die Pflanze . Durch die Bezahlung in ManaL darf der Käuft sich auf mana.link für den Genesis Block registrieren.
+Man kauft sich mit der Währung Mana.Link im Laden "Mana Shop", die Pflanze . Durch die Bezahlung in ManaL darf der Käuft sich auf mana.link für den Genesis Block registrieren.
 
-Jeder neue Eintrag eines Setzlings der weiteren Generationen darf nur durch den Tausch von ManaL sein Besitzestum in der Chain eintragen und somit Teil der Kette werden.
+Jeder neue Eintrag eines Setzlings der weiteren Generationen darf nur durch den Tausch von Mana.Link sein Besitzestum in der Chain eintragen und somit Teil der Kette werden.
 
-Der Benefit dieser Kette ist die Auszahlung der anteiligen Berürungen beim erzeugen und erhalt des Netzwerkes (Chain), sobald die eigene Pflanze stirbt. Somit verkauft man seine Token und aktualisiert den allgemeinen Bestand.
+Sobald die eigene Pflanze stirbt wird man mit dem Verkauf seines Mana.Link Token belohnt. 
+
+Dieser Kette ist die Auszahlung der anteiligen Berührungen beim erzeugen und erhalt des Netzwerkes (Chain). Somit verkauft man seine Token und aktualisiert den allgemeinen Bestand.
 
 ## ⌨️ Developing
 
@@ -158,12 +156,6 @@ const Block = {
 }
 ```
 
-*archiv*
-Dieses System erzeugt eine finanzielle Einbahnstraße und erzeugt einen Pot für eine Wertigkeit
-Der Token ist nicht limitiert von der Menge, sondern wird pro Genesis-Plfanze neu erzeugt und bei Einträgen zweiter Generation usw.usw. Somit ergibt sich eine incrementierende Währung mit Verknüpfung an die Anzahl der verangegangenen Pflanzen und Bestehender Pflanzenanzahl.
-
-Bei Tod der Pflanz, darf man seinen Token, der jeweiligen Generation auszahlen lassen und erhält, anteilig an den, nach mir erzeugten Pflanzen 
-
 ## Licence
 ```
 This is free and unencumbered software released into the public domain.
@@ -191,3 +183,13 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org/>
 ```
+
+
+*archiv*
+Dieses System erzeugt eine finanzielle Einbahnstraße und erzeugt einen Pot für eine Wertigkeit
+
+
+Bei Tod der Pflanz, darf man seinen Token, der jeweiligen Generation auszahlen lassen und erhält, anteilig an den, nach mir erzeugten Pflanzen 
+
+Die Pflanze ist der Token, also der Wert. Die Schenkung des Setzlinges an weitere Personen, die Transaktion des Wertes.
+Je älter der Token, umso höher die verschenkten Generationen wodurch der Wert des Genesis Token der Pflanze sich erhöht.
