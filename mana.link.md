@@ -1,3 +1,4 @@
+![alt text](/mana.link-logo.png "Mana Link Coin Logo")
 # Mana Link
 
 **Table of Contents**
@@ -12,8 +13,6 @@
 - [Development](#Developing)
   - [Hosting](#hosting)
   - [Technologien](#technologien)
-
-![alt text](/mana.link-logo.png "Mana Link Coin Logo")
 
 ## Konzept
 
@@ -66,6 +65,27 @@ Die Webseite wird über das IPFS auf der Domain mana.link ausgeliefert. IPFS ist
 - [Polkadot{js}](https://polkadot.js.org/) zum verknüpfen des Wallets
 - [Substrate](https://substrate.dev/) zum erzeugen der eigenen Blockchain auf basis von Polkadot
 
+### Deployment
+Das Repository wird durch eine Pipeline in GitLab deployed. Nachdem NextJS exportiert wurde, wird der `out` Ordner mittels folgendem Code auf dem IPFS deployed
+
+```jsx
+const sourcePath = `${__dirname}/web/out`;
+const options = {
+    pinataMetadata: {
+        name: 'Mana.Link',
+        keyvalues: {
+            customKey: 'customValue',
+            customKey2: 'customValue2'
+        }
+    },
+    pinataOptions: {
+        cidVersion: 0
+    }
+};
+
+const result = await pinata.pinFromFS(sourcePath, options)
+```
+
 ### Pflanzenerkennung per AI
 Beim scannen der Pflanze, zum verknüpfen des Besitzers, verwenden wir eine AI zum identifizieren der Pflanze. 
 - Service: https://web.plant.id/plant-identification-api/
@@ -73,8 +93,8 @@ Beim scannen der Pflanze, zum verknüpfen des Besitzers, verwenden wir eine AI z
 ### Foto Upload
 Fotos von den Pflanzen werden im IPFS abgespeichert und erhalten eine CID zur Wiedererkennung.
 
-### Verknüpfung
-Beim schreiben in die Blockchain werden die Wallet-Adresse des neuen Besitzer, die CID
+### Transaktion
+im folgenden Code ist der logische Ablauf einer Transaktion beschrieben.
 
 ```jsx
 
