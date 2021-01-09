@@ -3,8 +3,8 @@
 # Das Büro für Produktbeschwerung
 
 **Inhaltsverzeichnis**
+- [Fragen](#Fragen)
 - [Übersicht Konzepte](#Konzepte)
-- [Übersicht Theorien](#Theorien)
 - [Notizen](#Notizen)
 - [Sammlungen](#Sammlungen)
 
@@ -12,13 +12,14 @@
 
 ## Fragen
   - Ist unsere Demokratie veraltet?
-  - Warum findet 2025 ein wandel in der Gesellschaft statt?
   - Hilft Krypto-Währung dabei endliche Resourcen transparent zu managen?
+  - Ab wann vertraut man den Banken nicht mehr?
 
 ## Konzepte
   - [SPINE](spine/index.md)
+  - [Mana.Link](mana.link/index.md)
+  - [Tante.IO](tante.io/index.md) Micro Delivery für das Kleinst-Bedürfnis
   - Unternehmens Kommunikation durch Protokollierung in der Markdown Blockchain
-  - Micro Delivery für das Kleinst-Bedürfnis
   - Onboarding Gaminification in der Unternehmensgründung
   - Crypto-Öko-System zur Verteilung von Werten, Pflichten und Rechten innerhalb des Unternehmens
   - Modulare Büros zum dynamischen anpassen ändernden Workflows

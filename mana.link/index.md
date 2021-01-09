@@ -1,4 +1,4 @@
-![alt text](/mana.link-logo.png "Mana.Link")
+![alt text](mana.link.logo.png "Mana.Link")
 # Mana.Link
 
 **Table of Contents**
@@ -46,7 +46,7 @@ Nach Abschluss erhält man die Möglichkeit, weitere QR-Codes der 2. Generation 
 Bevor man die Pflanze verschenkt, legt man dem Setzling den QR-Code der 2. Generation bei, sodass sich der Beschenkende der Pflanze, sich auf der URL des neuen Codes wiederum auf mana.link mit dieser Generation als Besitzer verknüpft.
 Somit generiert sich nach Weilen eine Verankerungskette, die den Weg der Pflanze durch die Menscheit und der Epochen verknüpft.
 
-![alt text](/entwicklung.png "Mana.Link Prozess")
+![alt text](mana.link.process.png "Mana.Link Prozess")
 
 Durch diesen Prozess kann man in Zukunft herausfinden, wer hatte alles diese Pflanze, woher kam sie. Es könnte passieren, dass ich meine Pflanze verschenke und diese irgendwann als Geschenk bei einer bekannten Person landet. Bspw. Angelar Merkel.
 
