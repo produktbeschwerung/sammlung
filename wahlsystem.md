@@ -54,6 +54,7 @@ Erfüllt die Partei nicht das abschließen von mind. 75% aller Versprechen, wird
 
 **Bann Grund**
 
+#### Archiv
 
 **Ablauf**
 wird jede antretende Partei in zwei Teams mit jeweils ausgeglichener Kompetenzen aufgeteilt. Dies hat zur Folge, dass Parteien bei Wiederwahl durch das zweite Team für diese legislatur Periode vertreten wird.
