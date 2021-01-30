@@ -2,18 +2,28 @@
 Wie klar definierte Strukturen und Abläufe nach agilem Vorbild aus der Software-Entwicklung, die Transparenz der regierenden Parteien verbessert
 (und bei Misserfolg durch einen Fail-Over den Erhalt der Gewährleistung aktueller Themen, anzugehen)
 
-**Partei Aufbau**
-Eine Partei wird in zwei equivalente in sich funktionierende Teams unterteilt.
+## Parteien
 
-- Das aktive Team: wirbt mit dem zuvor ausgearbeiten Wahlprogramm zur Wahl der Regierenden Partei.
+### Aufteilung
+Eine Partei wird in zwei equivalente in sich funktionierende Teams unterteilt.
+Diese Teams beinhalten alle personellen Posten für die Ausübung als Regierung.
+Das Team beinhaltet alle Kompetenzen um die einzelnen Themen des Wahl-Programm umzusetzen.
+
+#### Ausführungs Phase Team A
+Das erste Team wirbt mit dem zuvor ausgearbeiten Wahlprogramm zur Wahl der Regierenden Partei.
+
+#### Definierung Phase Team B
 - Das passive Team: erarbeitet parallel, mit den direkten Erkentnissen des aktiven Team ein neues Wahl-Programm
 für die darauf folgende Legislatur-Periode.
 
-**Begründung**
-Durch die Aufteilung in zweier Teams, erhalten die Teams 4 Jahre Zeit die Themen des Wahl-Programmes zu definieren und der damit verbunden personellen Umstrukturierung vorzunehmen.
+### Phasen-Wechsel
+Nach Ablauf der Legislatur-Periode tauschen die Teams ihre Phasen.
 
-**Wechsel**
-Nach Ablauf der Legislatur-Periode wechseln die Teams und durchlaufen so im Rythmus die einzelnen Phasen.
+Team A von Ausführung zur Definierung
+Team-B von Definierung zur Ausführung
+
+**Begründung**
+Durch die Aufteilung in zweier Teams, erhalten die Teams jeweils 4 Jahre Zeit derdie Themen des Wahl-Programmes zu definieren und der damit verbunden personellen suche und Strukturierung sich für die nächste Legislatur-Periode aufzustellen.
 
 ### Das Wahlprogramm
 
