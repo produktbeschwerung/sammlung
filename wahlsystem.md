@@ -1,4 +1,5 @@
-# Wahlsystem
+# Idee Restrukturierung Wahl und Regierung
+
 Wie klar definierte Strukturen und Abläufe nach agilem Vorbild aus der Software-Entwicklung, die Transparenz der regierenden Parteien verbessert
 (und bei Misserfolg durch einen Fail-Over den Erhalt der Gewährleistung aktueller Themen, anzugehen)
 
