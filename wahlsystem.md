@@ -24,6 +24,7 @@ Team A von Ausführung zur Definierung
 Team-B von Definierung zur Ausführung
 
 **Begründung**
+
 Durch die Aufteilung in zweier Teams, erhalten die Teams jeweils 4 Jahre Zeit derdie Themen des Wahl-Programmes zu definieren und der damit verbunden personellen suche und Strukturierung sich für die nächste Legislatur-Periode aufzustellen.
 
 ### Das Wahlprogramm
