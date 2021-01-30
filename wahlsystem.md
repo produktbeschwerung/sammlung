@@ -25,7 +25,7 @@ Team-B von Definierung zur Ausführung
 
 **Begründung**
 
-Durch die Aufteilung in zweier Teams, erhalten die Teams jeweils 4 Jahre Zeit derdie Themen des Wahl-Programmes zu definieren und der damit verbunden personellen suche und Strukturierung sich für die nächste Legislatur-Periode aufzustellen.
+Durch die Aufteilung in zweier Teams, erhalten die Teams jeweils 4 Jahre Zeit die Themen des Wahl-Programmes zu definieren und der damit verbunden personellen suche und Strukturierung sich für die nächste Legislatur-Periode aufzustellen.
 
 ### Das Wahlprogramm
 
@@ -36,10 +36,10 @@ Bestimmung des erfolgreichen abschließen dienen.
 **Beispiele von Punkten des Wahlprogrammes mit fest definierten messbaren versprechen**
 - Wir als Partei werden die Armutsgrenze von derzeit stand. 10.10.2050 von 10%, nach Ende der Legislatur-Periode auf mind. 9% senken.
 - Wir als Partei haben das Gesetz für die Gleichstellung von Flüchtingen in unserem Grundgesetzt verankert.
-- Wir als Partei haben 15 Milliarden Euro in den Erhalt der Kultur in den verwiesenen Teilgebieten investiert.
+- Wir als Partei haben 15 Milliarden Euro in den Erhalt der Kultur, in den verwiesenen Teilgebieten, investiert.
   - Museum X bekommt Summe Y
   - Zeche-Zoll-Verein erhält Betrag X
-- Wir als Partei möchten die Taktfrequenz von 3 Zügen pro Stunde auf 4 Züger eröhen
+- Wir als Partei möchten die Taktfrequenz von 3 Zügen pro Stunde auf 4 Züge eröhen
 
 **Wahl-Ergebnis**
 Nach erfolgreich abgeschlossener Wahl, wird die Partei mit den höchsten Abstimmungswerten (tbd), für den nächsten Sprint in die Regierung gewählt.
@@ -60,9 +60,9 @@ Erfüllt die Partei nicht das abschließen von mind. 75% aller Versprechen, wird
 **Ablauf**
 wird jede antretende Partei in zwei Teams mit jeweils ausgeglichener Kompetenzen aufgeteilt. Dies hat zur Folge, dass Parteien bei Wiederwahl durch das zweite Team für diese legislatur Periode vertreten wird.
 
-Somit wählt der Burger nicht nur die Partei, sondern direkte Themen, die nach ablauf der Legislatur-Periode erfüllt sein müssen.
-Erfüllt das Team der regierende Partei nicht innerhalb der Legislatur-Periode mind. 75% aller Punkte Ihres Wahlprogrammes, wird diese Partei für eine Legislatur-Periode gesperrt, damit diese Zeit hat, personelle / strukturelle Probleme innerhalb der Teams zu behebn,
-damit die Neu-Aufstellung mit ihrem Wahlprogramm für den darauf folgende Regierungs-Sprint zu bewerben.
+Somit wählt der Bürger nicht nur die Partei, sondern direkte Themen, die nach Ablauf der Legislatur-Periode erfüllt sein müssen.
+Erfüllt das Team der regierenden Partei nicht innerhalb der Legislatur-Periode mind. 75% aller Punkte Ihres Wahlprogrammes, wird diese Partei für eine Legislatur-Periode gesperrt, damit diese Zeit hat, personelle / strukturelle Probleme innerhalb der Teams zu beheben,
+damit die Neu-Aufstellung mit ihrem Wahlprogramm, um den darauf folgenden Regierungs-Sprint zu bewerben.
 
 Ein Wahlprogramm ist ein
 
