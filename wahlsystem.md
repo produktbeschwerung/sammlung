@@ -1,13 +1,13 @@
 # Idee Restrukturierung Wahl und Regierung
 
-Wie klar definierte Strukturen und Abläufe nach agilem Vorbild aus der Software-Entwicklung, die Transparenz der regierenden Parteien verbessert
-(und bei Misserfolg durch einen Fail-Over den Erhalt der Gewährleistung aktueller Themen, anzugehen)
+Wie klar definierte Strukturen und Abläufe nach agilem Vorbild aus der Software-Entwicklung, die Transparenz der regierenden Parteien verbessert.
 
 ## Parteien
 
 ### Aufteilung
 Eine Partei wird in zwei equivalente in sich funktionierende Teams unterteilt.
-Diese Teams beinhalten alle personellen Posten für die Ausübung als Regierung.
+Diese Teams beinhalten alle personellen Posten für die Ausübung als regierende Partei.
+Jedes Mitglied eines Teams darf nu
 Das Team beinhaltet alle Kompetenzen um die einzelnen Themen des Wahl-Programm umzusetzen.
 
 #### Ausführungs Phase Team A
@@ -25,21 +25,27 @@ Team-B von Definierung zur Ausführung
 
 **Begründung**
 
-Durch die Aufteilung in zweier Teams, erhalten die Teams jeweils 4 Jahre Zeit die Themen des Wahl-Programmes zu definieren und der damit verbunden personellen suche und Strukturierung sich für die nächste Legislatur-Periode aufzustellen.
+Durch die Aufteilung in zweier Teams, erhalten die Teams jeweils 4 Jahre Zeit zur Bildung des Wahl-Programmes. 
+
+zu definieren und der damit verbunden personellen suche und Strukturierung sich für die nächste Legislatur-Periode aufzustellen.
 
 ### Das Wahlprogramm
+Das Wahlprogramm ist eine Bündelung von Themen für die Umsetzung.
 
 **Das Versprechen vor der Wahl**
 Jedes einzelne Thema einer Partei, welches als Punkt im Wahlprogramm aufgenommen ist, besitzt messbare klar definierte Werte, die zur
 Bestimmung des erfolgreichen abschließen dienen.
 
-**Beispiele von Punkten des Wahlprogrammes mit fest definierten messbaren versprechen**
-- Wir als Partei werden die Armutsgrenze von derzeit stand. 10.10.2050 von 10%, nach Ende der Legislatur-Periode auf mind. 9% senken.
-- Wir als Partei haben das Gesetz für die Gleichstellung von Flüchtingen in unserem Grundgesetzt verankert.
-- Wir als Partei haben 15 Milliarden Euro in den Erhalt der Kultur, in den verwiesenen Teilgebieten, investiert.
+#### Beispiel Themen
+- Wir als Partei haben die Armutsgrenze um x Prozentpunkte gesenkt.
+- Wir als Partei haben das Gesetz zum Upload-Filter in unserem Gesetzbuch X verankert.
+- Jede Schule in Deutschland besitzt einen Glasfaser-Zugang zum Internet.
+- Wir als Partei haben 15 Milliarden Euro in den Erhalt und die Förderung der Kultur folgender Einrichtungen / Orte entrichtet:
   - Museum X bekommt Summe Y
   - Zeche-Zoll-Verein erhält Betrag X
-- Wir als Partei möchten die Taktfrequenz von 3 Zügen pro Stunde auf 4 Züge eröhen
+- Die Taktfrequenzen von Zügen auf den Strecken X,Y,Z wurden von 3 Zügen pro Stunde auf 4 Züge erhöht.
+
+#### Bildung und Aufbau eines Themas
 
 **Wahl-Ergebnis**
 Nach erfolgreich abgeschlossener Wahl, wird die Partei mit den höchsten Abstimmungswerten (tbd), für den nächsten Sprint in die Regierung gewählt.
@@ -51,11 +57,13 @@ Die regierende Partei hat einen Zyklus Zeit Ihre Wahlversprechen zu erfüllen.
 Erfüllt die Partei mind. 75% aller Versprechen, wird diese für die darauf folgende Wahl, wieder zugelassen.
 
 **Wahlversprechen nicht erfüllt**
-Erfüllt die Partei nicht das abschließen von mind. 75% aller Versprechen, wird diese für einen Zyklus gebannt.
+Erfüllt die Partei nicht das abschließen von mind. 75% aller Versprechen, wird diese für einen Zyklus ausgesetzt.
 
 **Bann Grund**
 
 #### Archiv
+
+(Durch ein 2-Team Fail-Over wird bei Misserfolg die Abschließung von unfertigen Themen durch die Fachkompetenz des zweiten Teams gewährleistet und iterativ verbessert)
 
 **Ablauf**
 wird jede antretende Partei in zwei Teams mit jeweils ausgeglichener Kompetenzen aufgeteilt. Dies hat zur Folge, dass Parteien bei Wiederwahl durch das zweite Team für diese legislatur Periode vertreten wird.
