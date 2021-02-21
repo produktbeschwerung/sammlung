@@ -19,6 +19,7 @@
   - [SPINE](spine/index.md)
   - [Mana.Link](mana.link/index.md)
   - [Tante.IO](tante.io/index.md) Micro Delivery für das Kleinst-Bedürfnis
+  - [KYC ELO System](kyc-elo-blockchain.md)
   - Unternehmens Kommunikation durch Protokollierung in der Markdown Blockchain
   - Onboarding Gaminification in der Unternehmensgründung
   - Crypto-Öko-System zur Verteilung von Werten, Pflichten und Rechten innerhalb des Unternehmens
